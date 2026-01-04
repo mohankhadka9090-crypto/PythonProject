@@ -1,3 +1,3 @@
 # PythonProject
 This is my first Git Repository.
-Outher- 𝓜𝓸𝓱𝓪𝓷 ✦ 𝓚𝓱𝓪𝓭𝓴𝓪
+Author=> 𝓜𝓸𝓱𝓪𝓷 ✦ 𝓚𝓱𝓪𝓭𝓴𝓪
